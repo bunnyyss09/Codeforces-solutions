@@ -6,6 +6,20 @@
         "deque": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp"
     }
 }
